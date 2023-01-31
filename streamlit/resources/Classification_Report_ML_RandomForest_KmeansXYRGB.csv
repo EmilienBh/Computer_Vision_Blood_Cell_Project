@@ -1,0 +1,12 @@
+,precision,recall,f1-score,support
+neutrophil,0.86,0.71,0.78,222
+eosinophil,0.95,0.95,0.95,627
+ig,0.96,0.84,0.9,311
+platelet,0.67,0.79,0.72,590
+erythroblast,0.84,0.8,0.82,236
+monocyte,0.77,0.57,0.65,302
+basophil,0.88,0.96,0.92,682
+lymphocyte,0.98,1.0,0.99,449
+accuracy,,,0.86,3419
+macro avg,0.87,0.83,0.84,3419
+weighted avg,0.86,0.86,0.86,3419
